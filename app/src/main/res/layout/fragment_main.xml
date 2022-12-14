@@ -29,7 +29,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="56dp"
         android:layout_marginEnd="8dp"
-        android:text="По мотивам сказок. Пойдешь на( сделайте выбор с помощью кнопок внизу."
+        android:text="Вы в Москве .Куда путь держите ? "
         android:textAlignment="center"
         android:textColor="@color/black"
         android:textSize="16sp"
